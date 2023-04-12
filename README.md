@@ -1,3 +1,17 @@
+
+Lessons:
+
+100. Estructura y explicación de la aplicación de países
+
+
+
+
+
+
+
+
+
+
 # 03PaisesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
